@@ -10,6 +10,7 @@ Dansk guild i **WoW Forever**. Her samler vi de tools og addons, som folk i guil
 | **[UI-overførsel](https://github.com/nordens-paris/tools/tree/main/tools/wow-ui-transfer)** | Flytter addons, keybinds, macros og Edit Mode fra betaen til din nye character | [Hent](https://github.com/nordens-paris/tools/releases?q=ui-overfoersel&expanded=true) |
 | **[NP Roster](https://github.com/nordens-paris/tools/tree/main/tools/raid-roster)** | Planlægger raid-rosters ud fra Raid-Helper: buffs, grupper, bænk-rotation og fremmøde | Til officerer |
 | **[NPRoster-addon](https://github.com/nordens-paris/tools/tree/main/addons/NPRoster)** | Raidlederens addon: invitér, sortér grupper, bænk-whispers og fremmøde | [Hent](https://github.com/nordens-paris/tools/releases?q=np-roster&expanded=true) |
+| **[Parse Mirror](https://github.com/nordens-paris/tools/tree/main/tools/parse-mirror)** | Dit boss-kill mod top 10 i din spec, og hvad forskellen er værd i DPS (preview på TBC Anniversary) | [Åbn](https://parse-mirror.onrender.com) |
 | **[Darkfade's Forever Warrior](https://github.com/nordens-paris/tools/tree/main/addons/darkfade-forever-warrior)** | Komplet WeakAura-UI til Warrior i ForeverAuras | [Import-streng](https://github.com/nordens-paris/tools/blob/main/addons/darkfade-forever-warrior/Darkfade-Forever-Warrior.txt) |
 
 ## Vil du være med?
